@@ -6,11 +6,11 @@
 - Title: Add Release Checklist section to README
 - State: open
 - Changed files:
-  - README.md: additions=7, deletions=0, status=modified
-  - release-smoke-report.md: additions=16, deletions=0, status=added
-- Totals: changed_files=2, additions=23, deletions=0
+  - README.md: additions=7, deletions=0, changes=7, status=modified
+  - release-smoke-report.md: additions=55, deletions=0, changes=55, status=added
+- Totals: changed_files=2, additions=62, deletions=0
 - URL: https://github.com/mcpmark-eval-liuhezi/checklist-smoke-22/pull/1
-- Head branch: checklist-update (sha 1b65d68a56b1c35e8f51d0bcf83ecdf9bc21a69b)
+- Head branch: checklist-update (sha b0a8d0b6ae9d371483840638f5042443aa1fa0a1)
 - Base branch: main
 - Mergeable: true (mergeable_state=clean)
 
@@ -50,6 +50,6 @@ No team memberships were returned. get_teams for HeziLiu returned:
 ## Computed stats
 
 - Changed files: 2
-- Total additions: 23
+- Total additions: 62
 - Total deletions: 0
 FINGERPRINT=98a30e4e7afebb4a90e1ba766eb6d0eafcbb1d10f1f6a849f83dcf8728194b88
